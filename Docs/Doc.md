@@ -67,6 +67,12 @@
 
 ## Commits
 
+Commit [d563b05](https://github.com/Thorlik/DevToolsLab4/commit/d563b05b086a362e736935790cb823b05fa7de2d)
+Author: IvanHorolski
+Date:   Thu Nov 2
+
+    Documentation Added
+
 Commit [a493b58](https://github.com/Thorlik/DevToolsLab4/commit/a493b58642febc1c70b22eea366652d7bce33906)
 Author: IvanHorolski 
 Date:   Thu Nov 2 
