@@ -72,6 +72,13 @@
 
 ## Commits
 
+Commit [3c508bf](https://github.com/Thorlik/DevToolsLab4/commit/3c508bf99584c12572191ff024d75c9dc6d64d5a)  
+Author: IvanHorolski <113018705+Thorlik@users.noreply.github.com>  
+Date:   Thu Nov 2 01:33:52 2023 +0300
+
+    Changed description a bit
+
+
 Commit [d4b789c](https://github.com/Thorlik/DevToolsLab4/commit/d4b789cb4d45c3caddc1eddc791d86efae47a10f)  
 Author: IvanHorolski  
 Date:   Thu Nov 2
