@@ -1,16 +1,16 @@
 def summ(a, b):
     result = a + b
-    return result
+    return round(result, 2)
 
 
 def sub(a, b):
     result = a - b
-    return result
+    return round(result, 2)
 
 
 def mul(a, b):
     result = a * b
-    return result
+    return round(result, 2)
 
 
 def div(a, b):
@@ -18,7 +18,7 @@ def div(a, b):
         return 'На ноль делить нельзя'
     else:
         result = a / b
-    return result
+    return round(result, 2)
 
 
 def calculate(a, b, operation):
@@ -33,7 +33,7 @@ def calculate(a, b, operation):
     elif operation == '*':
         result = mul(a, b)
     else:
-        print('Неизвестная операция')
+        return ('Неизвестная операция')
 
     return result
 
